@@ -16,7 +16,7 @@ public class OperaçõesAritmeticas {
         
     int n1 = 5;
     int n2 = 6;
-    float m = (n1+n2) /2;
+    float m = (n1+n2) /3;
         System.out.println("A média é " + (m));
     }
     
